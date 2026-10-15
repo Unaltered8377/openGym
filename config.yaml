@@ -6,3 +6,5 @@ arch:
   - aarch64
   - amd64
 ingress: true
+full_access: true
+Use docker_api: true

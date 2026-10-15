@@ -1,0 +1,8 @@
+name: "openGym"
+version: ""
+slug: "openGym config"
+description: "Base config file"
+arch:
+  - aarch64
+  - amd64
+ingress: true
